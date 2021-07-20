@@ -1,0 +1,89 @@
+{
+  "name": "cocoswap",
+  "timestamp": "2021-07-15T08:00:00.001Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "https://swap.cocoswap.com/images/192x192_App_Icon.png",
+  "keywords": [
+    "coco",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "COCO",
+      "symbol": "COCO",
+      "address": "0x8871da134f113f6819ba106df2b95af5bac90eb8",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://swap.cocoswap.com/images/coins/0x0819b5374de3616ed572d95c52f1fcbceda93c8a.png"
+    },
+    {
+      "name": "WHT",
+      "symbol": "WHT",
+      "address": "0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F",
+      "chainId": 128,
+      "decimals": 18,
+      "logoUrl": "https://swap.cocoswap.com/images/coins/0x5545153CCFcA01fbd7Dd11C0b23ba694D9509A6F.png"
+    },
+    {
+      "name": "USDT",
+      "symbol": "USDT",
+      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+      "chainId": 128,
+      "decimals": 18,
+      "logoUrl": "https://swap.cocoswap.com/images/coins/0xa71edc38d189767582c38a3145b5873052c3e47a.png"
+    },
+    {
+      "name": "HUSD",
+      "symbol": "HUSD",
+      "address": "0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047",
+      "chainId": 128,
+      "decimals": 8,
+      "logoUrl": "https://swap.cocoswap.com/images/coins/0x0298c2b32eaE4da002a15f36fdf7615BEa3DA047.png"
+    },
+    {
+      "name": "HBTC",
+      "symbol": "HBTC",
+      "address": "0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa",
+      "chainId": 128,
+      "decimals": 18,
+      "logoUrl": "https://swap.cocoswap.com/images/coins/0x66a79D23E58475D2738179Ca52cd0b41d73f0BEa.png"
+    },
+    {
+      "name": "ETH",
+      "symbol": "ETH",
+      "address": "0x64FF637fB478863B7468bc97D30a5bF3A428a1fD",
+      "chainId": 128,
+      "decimals": 18,
+      "logoUrl": "https://swap.cocoswap.com/images/coins/0x64FF637fB478863B7468bc97D30a5bF3A428a1fD.png"
+    },
+    {
+      "name": "HLTC",
+      "symbol": "HLTC",
+      "address": "0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4",
+      "chainId": 128,
+      "decimals": 18,
+      "logoUrl": "https://swap.cocoswap.com/images/coins/0xecb56cf772B5c9A6907FB7d32387Da2fCbfB63b4.png"
+    },
+    {
+      "name": "PTD",
+      "symbol": "PTD",
+      "address": "0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2",
+      "chainId": 128,
+      "decimals": 18,
+      "logoUrl": "https://swap.cocoswap.com/images/coins/0x52ee54dd7a68e9cf131b0a57fd6015c74d7140e2.png"
+    },
+    {
+      "name": "DOGE",
+      "symbol": "DOGE",
+      "address": "0x40280E26A572745B1152A54D1D44F365DaA51618",
+      "chainId": 128,
+      "decimals": 8,
+      "logoUrl": "https://swap.cocoswap.com/images/coins/0x40280E26A572745B1152A54D1D44F365DaA51618.png"
+    }
+  ]
+}
